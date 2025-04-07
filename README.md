@@ -1,5 +1,4 @@
 [![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)](https://nikhilshukla.dev)</br>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Nikhil%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm Nikhil"></div>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <p align="center">
     I'm an <b>IT enthusiast</b> , <b>full-stack developer</b> and <b>entrepreneur</b> from India. I have an enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
