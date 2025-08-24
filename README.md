@@ -27,7 +27,7 @@
 <a href="https://discord.gg/vuvfyrjJ2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vuvfyrjJ2Q" height="30" width="40" /></a>
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nikhil_shuklaa?style=social)](https://twitter.com/nikhil_shuklaa) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=nikhil-shuklaa&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/nikhil-shuklaa/) [![GitHub followers](https://img.shields.io/github/followers/nikhil-shuklaa.svg?label=Follow%20@nikhil-shuklaa&style=social)](https://github.com/nikhil-shuklaa/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nikhilsbuilds?style=social)](https://twitter.com/nikhilsbuilds) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=nikhilsbuilds&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/nikhilsbuilds/) [![GitHub followers](https://img.shields.io/github/followers/nikhilsbuilds.svg?label=Follow%20@nikhilsbuilds&style=social)](https://github.com/nikhilsbuilds/)
 
 <hr>
 
