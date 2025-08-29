@@ -14,7 +14,7 @@
 - 🌱 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I like to **Just chit-chat**
 - 👀 Currently learning **New Techs**
-- 📝 I write articles on My <a href="https://myspybuddyblogs.wordpress.com/">Wordpress</a> Blog
+- 📝 Read my Notes <a href="https://nikhilshukla.dev/notes">here</a> 👈
 - 📫 Reach me : <a href="mailto:nikhilshukla.dev@gmail.com">nikhilshukla.dev</a>
 - 📄 Know about <a href="https://nikhilshukla.dev">Me</a>
 - ⚡ Fun fact **I'm an Engineer😂**
