@@ -10,12 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shuklaa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nikhilshuklaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhilshuklaaa" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhilsbuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilsbuilds" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@nikhilsbuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilsbuilds" height="30" width="40" /></a>
-<a href="https://discord.gg/vuvfyrjJ2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vuvfyrjJ2Q" height="30" width="40" /></a>
-</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nikhilsbuilds?style=social)](https://twitter.com/nikhilsbuilds) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=nikhilsbuilds&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/nikhilsbuilds/) [![GitHub followers](https://img.shields.io/github/followers/nikhilsbuilds.svg?label=Follow%20@nikhilsbuilds&style=social)](https://github.com/nikhilsbuilds/)
 
